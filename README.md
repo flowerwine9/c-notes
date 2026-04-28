@@ -1,2 +1,2 @@
 # c-notes
-just some note.
+just some notes.
